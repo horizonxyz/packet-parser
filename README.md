@@ -8,3 +8,8 @@ This package requires Scapy -
 pip install scapy
 ```
 
+# How to run?
+Just run - 
+```
+python sniffer.py
+```
